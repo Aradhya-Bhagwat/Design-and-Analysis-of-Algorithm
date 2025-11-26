@@ -45,7 +45,7 @@ Follow these steps for a typical program, using `01knapsack.cpp` as an example:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/aradhya0507/Design-and-Analysis-of-Algorithm.git
+    git clone https://github.com/Aradhya-Bhagwat/Design-and-Analysis-of-Algorithm.git
     ```
 2.  **Compile the file:** (Use the `-std=c++11` flag or higher for modern C++ features)
     ```bash
